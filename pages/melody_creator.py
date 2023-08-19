@@ -311,6 +311,7 @@ def play():
     pygame.mixer.init()
     pygame.mixer.music.load("melody.mid")
     pygame.mixer.music.play()
+    os.remove("melody.mid")
 
 def stop():
     pygame.mixer.music.stop()
