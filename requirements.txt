@@ -1,0 +1,10 @@
+MIDIUtil==1.2.1
+mido==1.2.10
+numpy==1.24.1
+plotly==5.15.0
+pygame==2.1.2
+pyperclip==1.8.2
+st_pages==0.4.3
+streamlit==1.25.0
+streamlit_extras==0.3.0
+windows-filedialogs==0.0.6

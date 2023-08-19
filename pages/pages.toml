@@ -1,0 +1,7 @@
+[[pages]]
+path = "pages/melody_creator.py"
+name = "Melody Creator"
+
+[[pages]]
+path = "pages/scale_explorer.py"
+name = "Scale Explorer"
