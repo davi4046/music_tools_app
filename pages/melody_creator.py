@@ -124,6 +124,18 @@ def load_settings(settings: dict):
     for i, expression in enumerate(settings["expressions"]):
         st.session_state["p_expression_{}".format(i)] = expression
 
+# Clear expressions
+
+index = st.session_state["p_expression_count"]
+
+while True:
+    if "p_expression_" + str(x) not in st.session_state:
+        break
+    del st.session_state["p_expression_" + str(x)]
+    index += 1
+
+expression_bank.clear()
+
 # Layout
 
 st.title("Melody Creator")
@@ -171,8 +183,6 @@ if st.session_state["p_expression_count"] > 0:
 
 if st.session_state["p_expression_count"] > 0:
     st.checkbox("Show Plot", key="p_show_plot")
-
-expression_bank.clear()
 
 for x in range(st.session_state["p_expression_count"]):
     letter = chr(ord("A") + x)
