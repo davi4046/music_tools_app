@@ -317,7 +317,7 @@ def copy_chord():
     binary = st.session_state["p_chord_binary"][::-1]
     binary = binary[st.session_state["p_chord_root_index"]:] + binary[:st.session_state["p_chord_root_index"]]
     scale = "{0}-{1}".format(
-        PITCHNAMES[st.session_state["p_scale_root_index"] + st.session_state["p_chord_root_index"] % 12],
+        PITCHNAMES[(st.session_state["p_scale_root_index"] + st.session_state["p_chord_root_index"]) % 12],
         int(binary[::-1], 2)
     )
     st.session_state["p_scale"] = scale
