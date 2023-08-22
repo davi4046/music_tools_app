@@ -275,15 +275,15 @@ if is_ready:
 
         while time < st.session_state["p_length"]:
             try:
-                p_new_x = expression_bank.evaluate(st.session_state["p_new_x"], x)
+                p_new_x = float(expression_bank.evaluate(st.session_state["p_new_x"], x))
             except:
                 raise Exception("**New X** failed to evaluate at x = {}".format(x))
             try:
-                pitch = expression_bank.evaluate(st.session_state["p_pitch"], x)
+                pitch = int(expression_bank.evaluate(st.session_state["p_pitch"], x))
             except:
                 raise Exception("**Pitch** failed to evaluate at x = {}".format(x))
             try:
-                duration = expression_bank.evaluate(st.session_state["p_duration"], x)
+                duration = float(expression_bank.evaluate(st.session_state["p_duration"], x))
             except:
                 raise Exception("**Duration** failed to evaluate at x = {}".format(x))
             try:
@@ -291,18 +291,17 @@ if is_ready:
             except:
                 raise Exception("**Rest** failed to evaluate at x = {}".format(x))
             try:
-                velocity = expression_bank.evaluate(st.session_state["p_velocity"], x)
+                velocity = int(expression_bank.evaluate(st.session_state["p_velocity"], x))
             except:
                 raise Exception("**Velocity** failed to evaluate at x = {}".format(x))
 
             duration = max(0, duration)
-            
-            velocity = max(0, min(127, velocity))
 
             if duration > 0:
                 duration = quantize_duration(duration)
                 if not is_rest:
-                    pitch = min(128, max(0, degree_to_pitch(int(pitch), pitchclassset)))
+                    pitch = min(128, max(0, degree_to_pitch(pitch, pitchclassset)))
+                    velocity = max(0, min(127, velocity))
                     mf.addNote(0, 0, pitch, time, duration, velocity)
 
             x = p_new_x
