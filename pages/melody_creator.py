@@ -78,7 +78,7 @@ def get_pitchclassset_from_scale(scale: str) -> set[int]:
 
     for x in range(12):
         if binary[11 - x] == "1":
-            pitches.append((x + root - 3) % 12)
+            pitches.append(x + root - 3)
 
     return pitches
 
