@@ -14,11 +14,17 @@ from plotly.subplots import make_subplots
 
 import lib.expression_bank as expression_bank
 from lib.constants import PITCHNAMES
+from lib.sidebar import show_sidebar
+from lib.style import style
+
+style()
+
+# Auto copy 𝑥 to the clipboard
 
 if pyperclip.paste() != "\U0001d465":
     pyperclip.copy("\U0001d465")
     st.toast("Copied '\U0001d465' to the clipboard.")
-
+    
 # Session State Variables
 
 for x in st.session_state:
@@ -125,6 +131,19 @@ def load_settings(settings: dict):
     st.session_state["p_expression_count"] = len(settings["expressions"])
     for i, expression in enumerate(settings["expressions"]):
         st.session_state["p_expression_{}".format(i)] = expression
+
+def load_settings_from_file(path_to_file: str):
+    midi = mido.MidiFile(path_to_file)
+    settings = json.loads(midi.tracks[1][0].text)
+    load_settings(settings)
+
+def load_demo():
+    try:
+        load_settings_from_file("res/demo.mid")
+    except:
+        st.toast("Failed to load the demo.", icon="😢")
+    else:
+        st.toast("Successfully loaded the demo!", icon='🎉')
 
 # Clear expressions
 
@@ -267,7 +286,6 @@ if is_ready:
         
         pitchclassset = get_pitchclassset_from_scale(st.session_state["p_scale"])
 
-        
         try:
             x = expression_bank.evaluate(st.session_state["p_initial_x"])
         except:
@@ -357,10 +375,8 @@ def load():
         ext=[("MIDI file", "mid")]
     )
     if openpath:
-        midi = mido.MidiFile(openpath)
         try:
-            settings = json.loads(midi.tracks[1][0].text)
-            load_settings(settings)
+            load_settings_from_file(openpath)
         except:
             st.toast("Failed to load settings from file.", icon="😢")
         else:
@@ -382,3 +398,19 @@ with columns[2]:
     st.button("Save", on_click=save, disabled=not is_ready)
 with columns[3]:
     st.button("Load", on_click=load)
+
+
+# Configure sidebar
+
+show_sidebar()
+
+with st.sidebar:
+    
+    st.divider()
+    
+    columns = st.columns(2)
+    
+    columns[0].button(
+        "Load Demo", 
+        on_click=lambda: load_demo()
+    )
