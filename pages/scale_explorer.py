@@ -1,3 +1,4 @@
+import math
 import os
 
 import pygame.mixer
@@ -10,8 +11,8 @@ from lib.constants import EXTENSIONS, PITCHNAMES
 from lib.sidebar import show_sidebar
 from lib.style import style
 
-style()
 show_sidebar()
+style()
 
 # Session State Variables
 
@@ -309,6 +310,11 @@ def play_chord():
 
 # Copying
 
+def get_relative_chord_decimal() -> int:
+    binary = st.session_state["p_chord_binary"][::-1]
+    binary = binary[st.session_state["p_chord_root_index"]:] + binary[:st.session_state["p_chord_root_index"]]
+    return int(binary[::-1], 2)
+
 def copy_scale():
     scale = "{0}-{1}".format(
         PITCHNAMES[st.session_state["p_scale_root_index"]],
@@ -319,11 +325,10 @@ def copy_scale():
     st.toast("Scale was copied to the clipboard!", icon="🎉")
 
 def copy_chord():
-    binary = st.session_state["p_chord_binary"][::-1]
-    binary = binary[st.session_state["p_chord_root_index"]:] + binary[:st.session_state["p_chord_root_index"]]
+    decimal = get_relative_chord_decimal()
     scale = "{0}-{1}".format(
         PITCHNAMES[(st.session_state["p_scale_root_index"] + st.session_state["p_chord_root_index"]) % 12],
-        int(binary[::-1], 2)
+        decimal
     )
     st.session_state["p_scale"] = scale
     pyperclip.copy(scale)
@@ -345,6 +350,8 @@ for x in range(12):
         st.checkbox(str(x), key="scale_checkbox_"+str(11-x), on_change=set_update_scale_by_checkbox, disabled=x==0, label_visibility="hidden")
 
 st.selectbox("Root", PITCHNAMES, key="scale_root", on_change=set_update_scale_by_root)
+
+columns = st.columns(2)
 
 st.number_input("Decimal", 0, 4095, step=2, key="scale_decimal", on_change=set_update_scale_by_decimal)
 
@@ -413,3 +420,15 @@ with columns[2]:
     st.button(":arrow_backward:", key="rotate_chord_left", on_click=rotate_chord_left, disabled=disable_buttons)
 with columns[3]:
     st.button(":arrow_forward:", key="rotate_chord_right", on_click=rotate_chord_right, disabled=disable_buttons)
+
+with open("res/scale_names.txt") as file:
+    lines = file.readlines()
+    scale_name = lines[math.floor(st.session_state["scale_decimal"] / 2)]
+    chord_name = lines[math.floor(get_relative_chord_decimal() / 2)]
+
+with st.sidebar:
+    st.divider()
+    st.caption("Scale Name")
+    st.write(scale_name)
+    st.caption("Chord Name")
+    st.write(chord_name)
