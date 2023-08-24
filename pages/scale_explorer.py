@@ -7,6 +7,11 @@ from midiutil.MidiFile import MIDIFile
 
 import lib.circmath as circmath
 from lib.constants import EXTENSIONS, PITCHNAMES
+from lib.sidebar import show_sidebar
+from lib.style import style
+
+style()
+show_sidebar()
 
 # Session State Variables
 
