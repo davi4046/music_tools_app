@@ -39,6 +39,8 @@ variables = {
     "p_duration": "",
     "p_rest": "",
     "p_velocity": "",
+    "p_default_savepath": "",
+    "p_default_loadpath": "",
 }
 
 for x in variables:
@@ -329,24 +331,27 @@ def stop():
 
 def save():
     wd = os.getcwd()
-    default_name = "{time_num}-{time_den}_{tempo}bpm_{length}beats_{scale}".format(
-        time_num=st.session_state["p_time_numerator"],
-        time_den=st.session_state["p_time_denominator"],
-        tempo=st.session_state["p_tempo"],
-        length=st.session_state["p_length"],
-        scale=st.session_state["p_scale"],
-    )
     savepath = save_file_dialog(
-        "Save File", default_name=default_name, ext=[("MIDI file", "mid")]
+        "Save File", 
+        default_name=st.session_state["p_default_savepath"],
+        ext=[("MIDI file", "mid")]
     )
     if savepath:
-        with open(savepath, "wb") as f:
-            mf.writeFile(f)
+        try:
+            with open(savepath, "wb") as f:
+                mf.writeFile(f)
+        except:
+            st.toast("Failed to write output to MIDI.", icon='😢')
+        st.session_state["p_default_savepath"] = savepath
     os.chdir(wd)
 
 def load():
     wd = os.getcwd()
-    openpath = open_file_dialog("Load File", ext=[("MIDI file", "mid")])
+    openpath = open_file_dialog(
+        "Load File",
+        directory=st.session_state["p_default_loadpath"],
+        ext=[("MIDI file", "mid")]
+    )
     if openpath:
         midi = mido.MidiFile(openpath)
         try:
@@ -354,6 +359,9 @@ def load():
             load_settings(settings)
         except:
             st.toast("Failed to load settings from file.", icon="😢")
+        else:
+            st.session_state["p_default_loadpath"] = os.path.dirname(openpath)
+            st.session_state["p_default_savepath"] = openpath
     os.chdir(wd)
 
 # Buttons
