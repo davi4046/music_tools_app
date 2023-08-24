@@ -1,0 +1,7 @@
+MusicTools is a small passion project of mine which combines my two main interests, music theory and programming.
+
+As of now, it is two small programs which can be used together.
+
+Use **Scale Explorer** to find new and interesting chords and scales, and copy them into **Melody Creator** to create a melody based off of mathematical expressions.
+
+Have fun!
