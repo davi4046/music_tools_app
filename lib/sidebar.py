@@ -2,7 +2,6 @@ import os
 import webbrowser
 
 import streamlit as st
-from streamlit_extras.switch_page_button import switch_page
 
 
 def show_sidebar():    
