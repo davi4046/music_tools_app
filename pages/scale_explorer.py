@@ -15,7 +15,7 @@ for x in st.session_state:
             st.session_state[x] = st.session_state[x]
 
 variables = {
-    "p_scale_binary": "000000000000",
+    "p_scale_binary": bin(2741)[2:].zfill(12),
     "p_scale_root_index": 0,
     "p_chord_binary": "000000000000",
     "p_chord_root_index": -1,
