@@ -17,6 +17,7 @@ from lib.constants import PITCHNAMES
 from lib.sidebar import show_sidebar
 from lib.style import style
 
+show_sidebar()
 style()
 
 # Auto copy 𝑥 to the clipboard
@@ -386,7 +387,7 @@ def load():
 
 # Buttons
 
-st.header("Actions")
+st.divider()
 
 columns = st.columns(4)
 
@@ -401,8 +402,6 @@ with columns[3]:
 
 
 # Configure sidebar
-
-show_sidebar()
 
 with st.sidebar:
     
