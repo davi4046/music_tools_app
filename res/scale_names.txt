@@ -1,0 +1,2048 @@
+Unison
+Minor Second Ditone
+Vietnamese Ditonic
+Tritonic Chromatic
+Minor Third Ditone
+Octatonic Trichord
+DIJian
+Tetratonic Chromatic
+Major Third Ditone
+Hexatonic Trichord
+Wholetone Trichord
+APHian
+ACKian
+ADOian
+ADUian
+Pentatonic Chromatic
+Honchoshi
+Major Seventh Trichord
+Akha 3 Tone
+AFUian
+Vietnamese Tritonic
+ALFian
+APRian
+AGOian
+AGUian
+ARFian
+ABSian
+ASPian
+AHOian
+AHUian
+AJUian
+Hexatonic Chromatic
+Tritone
+Viennese Trichord
+DEZian
+ALOian
+Diminished Triad
+ILOian
+ALVian
+APPian
+Karen 3 Tone Type 6
+All-Interval Tetrachord 1
+SEGian
+ASRian
+AGGian
+ANOian
+ANUian
+ARKian
+ATHian
+IPRian
+All-Interval Tetrachord 3
+APUian
+EDWian
+ANSian
+AMSian
+AROian
+ARUian
+ASHian
+ANBian
+SMOian
+ASOian
+ASUian
+ATWian
+Heptatonic Chromatic
+Niagari
+ATOian
+Suspended Second Triad
+ATTian
+Minor Triad
+All-Interval Tetrachord 2
+BABian
+BACian
+Major Triad
+BAFian
+Eskimo Tetratonic
+BAHian
+BAJian
+BAKian
+BALian
+BAMian
+Suspended Fourth Triad
+BAPian
+Genus Primum
+BARian
+Vietnamese Tetratonic
+PRUian
+Raga Purnalalita
+BEWian
+BEXian
+BEYian
+Raga Budhamanohari
+BEBian
+BECian
+BEDian
+BEFian
+BEGian
+Raga Ongkari
+Messiaen Mode 5 Truncation 1
+BEKian
+Raga Nabhomani
+BEMian
+MiaoYao 5 Tone Type 3
+BEPian
+BEQian
+All-Interval Tetrachord 4
+BISian
+BITian
+BIVian
+BIWian
+Istrian
+BIYian
+BIZian
+BIBian
+BICian
+BIDian
+BIFian
+BIGian
+BIHian
+BIJian
+BIKian
+BILian
+BOMian
+Raga Dipak
+BOPian
+BOQian
+BORian
+BOSian
+Chromatic Octamode
+Minor Sixth Ditone
+GIJian
+BOZian
+UDWian
+BOXian
+BOBian
+BOCian
+BODian
+Augmented Triad
+Dalic
+Mixolyric
+Poditonic
+Lanic
+Aerylitonic
+Zaritonic
+Gynimic
+Karen 3 Tone Type 3
+Raga Lavangi
+Raga Haripriya
+Gyritonic
+Karen 4 Tone Type 3
+Raga Chitthakarshini
+Raga Audav Tukhari
+Golimic
+Gonic
+Raga Megharanjani
+Palitonic
+Stagimic
+Goritonic
+Stodimic
+Korimic
+Epodian
+CAHian
+CAJian
+Messiaen Truncated Mode 6
+Syptitonic
+Lonic
+Raga Chhaya Todi
+Bogitonic
+Zanimic
+Kmhmu 4 Tone Type 2
+Zaptitonic
+Bothitonic
+Ionorimic
+Gylitonic
+Barimic
+Borimic
+Epanian
+CEBian
+African Pentatonic 4
+Banitonic
+Bothimic
+Bocritonic
+Soptimic
+Marimic
+Aerodian
+Laditonic
+Rythimic
+Epagimic
+Sodian
+Kathimic
+Aeragian
+Kogian
+Logyllic
+CIVian
+CIWian
+CIXian
+CIYian
+Lothic
+Phrygian Pentatonic
+Aeolian Pentatonic
+Zynimic
+Epogic
+Raga Reva
+Raga Bhupeshwari
+All-Trichord Hexachord
+Laritonic
+Lygimic
+Ganimic
+Aeoladian
+COPian
+Hon-kumoi-joshi
+Han-kumoi
+Sogimic
+Raga Kokil Pancham
+Raga Suddha Simantini
+Koptimic
+Epyrian
+Raga Zilaf
+Raga Purna Pancama
+Ronimic
+Bythian
+Thycrimic
+Kothian
+Gocrian
+Thyphyllic
+CUJian
+Raga Saugandhini
+Raditonic
+Messiaen Mode 5 Rotation 2
+Staptitonic
+Zaptimic
+Raga Syamalam
+Zythian
+Zoditonic
+Raga Dhavalangam
+Katyrimic
+Dodian
+Aeralimic
+Aeolygian
+Stacrian
+Kocryllic
+DABian
+Kygimic
+Stoptimic
+Dynian
+Phrathimic
+Aeolyrian
+Rygian
+Bocryllic
+Kadimic
+Ionaptian
+Katylian
+Thoptyllic
+Sanian
+Moryllic
+Ionothyllic
+Chromatic Nonamode
+Major Sixth Ditone
+DEPian
+ALUian
+DEYian
+ASTian
+DEBian
+IDWian
+DEDian
+Raga Bilwadala
+DEGian
+DEHian
+DEJian
+ATUian
+DELian
+DEMian
+DENian
+Karen 3 Tone Type 4
+Pyrric
+Lahuzu 4 Tone Type 4
+Aeoloditonic
+Phradic
+Aeolycritonic
+Raga Abhogi
+Lylimic
+Phratic
+Thacritonic
+Aeolyphritonic
+Aeoladimic
+Mothitonic
+Kynimic
+Saptimic
+Ionydian
+ILLian
+GIYian
+Bolic
+Aeritonic
+Diminished Seventh
+Pathitonic
+Ionalitonic
+Gaptimic
+Saric
+Sogitonic
+Kung
+Thyrimic
+Bycritonic
+Aeolygimic
+Dycrimic
+Kadian
+DOCian
+Anchihoye
+Phralitonic
+Schoenberg Hexachord
+Katycritonic
+Double-Phrygian Hexatonic
+Pyramid Hexatonic
+Sycrian
+Ionyptitonic
+Mogimic
+Aeronimic
+Zygian
+Kydimic
+Epolian
+Debussy's Heptatonic
+Ionaryllic
+Lahuzu 3 Tone Type 1
+DUXian
+DUYian
+DUZian
+Byptic
+Golitonic
+Dorian Pentatonic
+Kataptimic
+Lahuzu 4 Tone Type 3
+Raga Rasika Ranjani
+Major Pentatonic
+Phrynimic
+Raga Mohanangi
+Rodimic
+Gycrimic
+Stycrian
+Lahuzu 4 Tone Type 1
+Altered Pentatonic
+Scottish Pentatonic
+Lanimic
+Minor Added Sixth Pentatonic
+Stogimic
+Raga Suddha Bangala
+Aeolythian
+Raga Nagasvaravali
+Raga Kalavati
+Arezzo Major Diatonic Hexachord
+Sarian
+Lagimic
+Aerothian
+Mixonyphian
+Aerocryllic
+EDRian
+EHOian
+Raga Shri Kalyan
+Raga Chandrajyoti
+Thoptitonic
+T4 Prime Mode
+Raga Vijayanagari
+Kanian
+Raga Dhavalashri
+Ionadimic
+Raga Yamuna Kalyani
+Phradian
+Stygimic
+Alternating Heptamode
+Donian
+Sylyllic
+TRUian
+Rorimic
+Gathimic
+Chromatic Hypophrygian Inverse
+Kolimic
+Lynian
+Aeologian
+Epacryllic
+Kytrimic
+Phrythian
+Ionyptian
+Katalyllic
+Ponian
+Doryllic
+Mixonyphyllic
+Raptygic
+ENBian
+ESOian
+ESUian
+Raga Putrika
+EMPian
+ETRian
+ETOian
+ETUian
+Aeoloric
+Aeolapritonic
+Zogitonic
+Aeoloptimic
+Mocritonic
+Aeologimic
+Katocrimic
+Lolian
+FAHian
+Loritonic
+Rothitonic
+Raga Suddha Mukhari
+Dogitonic
+Radimic
+Larimic
+Bolian
+Zothitonic
+Augmented Inverse
+Aeranimic
+Stodian
+Thyptimic
+Mixolocrian
+Lygian
+Rodyllic
+FEBian
+FECian
+Epaditonic
+Ionathimic
+Phrothitonic
+Molimic
+Raga Neelangi
+Ganian
+Aerynitonic
+Raga Hejjajji
+Epothimic
+Porian
+Aeolydimic
+Ultralocrian
+Rylian
+Pyryllic
+JAHian
+Phrocrimic
+Kothimic
+Hungarian Romani Minor 4th Mode
+Bagimic
+Locrian Double-flat 7
+Moravian Pistalkova
+Aeolocryllic
+Aerothimic
+Ralian
+Sathian
+Sathyllic
+Borian
+Ionilyllic
+Pycryllic
+Aeolathygic
+FOPian
+FOQian
+BOFian
+FOSian
+Bylitonic
+Tholimic
+Katarimic
+Radian
+Aeolyritonic
+Raga Kalagada
+Dygimic
+Chromatic Phrygian Inverse
+Bogimic
+Ultraphrygian
+Chromatic Hypodorian
+Koptyllic
+FUJian
+Raga Kalakanthi
+Dadimic
+Chromatic Dorian
+Stothimic
+Mela Senavati
+Mela Jhankaradhvani
+Aerygyllic
+Raga Saravati
+Mela Gayakapriya
+Mela Mararanjani
+Thogyllic
+Mela Yagapriya
+Ionogyllic
+Phronyllic
+Katylygic
+GABian
+GACian
+Ionothimic
+Mela Salaga
+Ionogimic
+Mela Gavambodhi
+Mela Syamalangi
+Messiaen Mode 4 Rotation 3
+Kocrimic
+Mela Dhavalambari
+Mela Kantamani
+Epygyllic
+Mela Sucaritra
+Aeraptyllic
+Phrolyllic
+Aeolygic
+GAVian
+Phrathian
+Rycrian
+Bylyllic
+Badian
+Ionyryllic
+Radyllic
+Ionycrygic
+Katyptian
+Kycryllic
+Stydyllic
+Ionodygic
+Dythyllic
+Aeranygic
+Ladygic
+Chromatic Decamode
+Warao Ditonic
+GEQian
+AMPian
+GISian
+Ute Tritonic
+GIVian
+Warao Tetratonic
+GIXian
+HITian
+GIZian
+GIBian
+GICian
+GIDian
+GIFian
+GIGian
+GIHian
+Sansagari
+GIKian
+Karen 4 Tone Type 4
+GOMian
+Karen 4 Tone Type 1
+GOPian
+GOQian
+GORian
+GOSian
+GOTian
+GOVian
+GOWian
+GOXian
+GOYian
+GOZian
+GOBian
+GOCian
+PEDian
+Lydic
+Phrythitonic
+Aeraphic
+Dyritonic
+Stothitonic
+Lynimic
+Messiaen Truncated Mode 6 Inverse
+Mogitonic
+Kataditonic
+Sycrimic
+Locrian Pentatonic 2
+Superlocrian Hexamirror
+Raptimic
+Rarian
+GUWian
+Iwato
+Ionaritonic
+Eparimic
+Raga Jayakauns
+Honchoshi Plagal Form
+Stycrimic
+Katolian
+Stonitonic
+Aerygimic
+Rynimic
+Styrian
+Zygimic
+Epynian
+Bydian
+Mythyllic
+CHOian
+ADWian
+ALKian
+HASian
+Bi Yu
+Raga Rukmangi
+Gycritonic
+Aerodimic
+Raga Mahathi
+Raga Manaranjani I
+Dominant Pentatonic
+Epycrimic
+Garitonic
+Sonimic
+Katagimic
+Sadian
+Genus Primum Inverse
+Kokin-joshi
+Suspended Pentatonic
+Pyrimic
+Minor Pentatonic
+Raga Gandharavam
+Minor Hexatonic
+Magian
+Mixolydian Pentatonic
+Pagimic
+Raga Siva Kambhoji
+Aeoloptian
+Raga Bhanumanjari
+Ceiling Scale
+Gyrian
+Aeolanyllic
+HICian
+HIDian
+Epyritonic
+Phryptimic
+Raga Samudhra Priya
+Thacrimic
+Raga Simharava
+Logian
+Ionoditonic
+Tritone Scale
+Salimic
+Epaptian
+Pygimic
+Epylian
+Lathian
+Mygyllic
+HOWian
+Sylimic
+Zolimic
+Chromatic Mixolydian
+Blues Scale
+Stadian
+Modified Blues
+Stynyllic
+Pynimic
+Katynian
+Katythian
+Kolyllic
+Heptatonic Blues
+Stagyllic
+Zadyllic
+Sarygic
+HUQian
+HURian
+HUSian
+HUTian
+HUVian
+HUWian
+HUXian
+HUYian
+Aeolic
+Aerophitonic
+Koditonic
+Epolimic
+Dynitonic
+Katorimic
+Pogimic
+Bynian
+Akha 4 Tone Type 2
+Pyritonic
+Chaio
+Phronimic
+Blues Minor
+Ritsu
+Phradimic
+Zalian
+Epygitonic
+Raga Vasantabhairavi
+Lyptimic
+Elephant Scale
+Epogimic
+Kycrian
+Madian
+Zalyllic
+ISKian
+IGOian
+Tholitonic
+Aeraptimic
+Raga Harikauns
+Aeolorimic
+Takemitsu Linea Mode 2
+Aerygian
+Ngapauk auk Pyan
+Gygimic
+Whole Tone
+Leading Whole-Tone Inverse
+Boptimic
+Superlocrian
+Storian
+Bothyllic
+INSian
+Kycrimic
+Padimic
+Pynian
+Phracrimic
+Locrian
+Minor Locrian
+Aeradyllic
+Mycrimic
+Locrian Dominant
+Major Locrian
+Syryllic
+Pagian
+Espla's Scale
+Goryllic
+Tharygic
+IMSian
+IROian
+IRUian
+IMPian
+Raga Shailaja
+Raga Kashyapi
+Raga Trimurti
+Doptian
+Ryphitonic
+Lolimic
+Bythimic
+Phragian
+Dynimic
+Phrygian Flat 4
+Sabach ascending
+Rolyllic
+JABian
+Raga Phenadyuti
+Raga Navamanohari
+Mela Ratnangi
+Raga Gopikavasantam
+Phrygian
+Aeolian
+Quartal Octamode
+Raga Kamalamanohari
+Phrygian Dominant
+Major-Minor
+Zaptyllic
+Mela Ragavardhani
+Spanish Phrygian
+Epiryllic
+Radygic
+JAVian
+UFFian
+Raga Jaganmohanam
+Mela Jalarnava
+Zagimic
+Mela Bhavapriya
+Minor Romani
+Lycryllic
+Raga Jyoti
+Namanarayani
+Lydian Minor
+Messiaen Mode 6 Rotation 2
+Mela Jyotisvarupini
+Bebop Locrian
+Stygyllic
+Padygic
+JEPian
+Zynian
+Ragian
+Styptyllic
+Stathian
+Phrygian/Locrian Mixed
+Spanish Octamode 4th Rotation
+Locrian/Aeolian Mixed
+Stanian
+Zothyllic
+Sodyllic
+Aeolyrygic
+Kataryllic
+Styptygic
+Katycrygic
+Mixodyllian
+JIJian
+JIKian
+JILian
+JOMian
+JONian
+JOPian
+JOQian
+JORian
+JOSian
+JOTian
+JOVian
+JOWian
+JOXian
+JOYian
+JOZian
+JOBian
+JOCian
+Lagitonic
+Raga Guhamanohari
+Zycrimic
+Raga Chandrakauns
+Sagimic
+Raga Bagesri
+Salian
+Raga Khamaji Durga
+Raga Rudra Pancama
+Raga Rageshri
+Rodian
+Zogimic
+Dacrian
+Aeolodian
+Pocryllic
+JUWian
+JUXian
+Zanitonic
+Epytimic
+Thyritonic
+Dacrimic
+Thylimic
+Sydian
+Phronitonic
+Prometheus Neapolitan
+Scriabin's Prometheus
+Lothian
+Hungarian Major No5
+Hungarian Major 4th Mode
+Synian
+Rynyllic
+KAPian
+Sygimic
+Syptimic
+Aeolothian
+Bocrimic
+Locrian Natural 6
+Dorian Flat 5
+Polyllic
+Bolimic
+Asian
+Minor Romani Inverse
+Katygyllic
+Ionothian
+Magyllic
+Gonyllic
+Lydygic
+KEJian
+KEKian
+Raga Matha Kokila
+KEMian
+Thocritonic
+Raga Salagavarali
+Raga Manavi
+Kydian
+Raga Valaji
+Raga Malayamarutam
+Zeracrimic
+Phralian
+Lorimic
+Kathian
+Dogian
+Phrodyllic
+Raga Kuntvarali
+Raga Rasavali
+Mixolydian Hexatonic
+Mela Vanaspati
+Raga Manohari
+Dorian Flat 2
+Dorian
+Adonai Malakh
+Raga Khamas
+Harmonic Minor Inverse
+Mixolydian
+Lyryllic
+Mela Vagadhisvari
+JG Octatonic
+Minor Bebop
+Sydygic
+KOWian
+KOXian
+Raga Sarasvati
+Mela Navanitam
+Raga Madhukauns
+Mela Sadvidhamargini
+Lydian Diminished
+Epigyllic
+Raga Vutari
+Mela Ramapriya
+Acoustic
+Aeolyryllic
+Hungarian Major
+Octatonic
+Ionyphyllic
+Pylygic
+KUQian
+Katalian
+Lonian
+Dyryllic
+Blues Heptatonic II
+Stylyllic
+Blues Scale II
+Lyrygic
+Saptian
+Aerythyllic
+Lydian/Mixolydian Mixed
+Youlan
+Tharyllic
+Mycrygic
+Blues Enneatonic II
+Aerygyllian
+LAJian
+LAKian
+LALian
+LAMian
+LANian
+LAPian
+LAQian
+LARian
+Ranitonic
+Kyptimic
+Katothimic
+Godian
+Phrythimic
+Pydian
+Aeradian
+Phralyllic
+LECian
+Katygimic
+Pathimic
+Pothian
+Ionacrimic
+Byptian
+Dalian
+Zogyllic
+Thogimic
+Ionygian
+Mixolydian Augmented
+Thacryllic
+Chromatic Hypodorian Inverse
+Zacryllic
+Phrynyllic
+Marygic
+LIWian
+LIXian
+Phrygimic
+Pycrian
+Thagimic
+Solian
+Katyrian
+Aeolyllic
+Dathimic
+Persichetti Scale
+Aeroptian
+Mixoryllic
+Korian
+Mixopyryllic
+Messiaen Mode 6 Rotation 1
+Aerocrygic
+LOQian
+Thalian
+Ionylian
+Salyllic
+Ionopian
+Moptyllic
+Ionidyllic
+Diminishing Nonamode Basic
+Katacrian
+Lynyllic
+Epicryllic
+Messiaen Mode 3 Rotation 1
+Zagyllic
+Thydygic
+Sacrygic
+Rocryllian
+LUKian
+LULian
+LUMian
+LUNian
+Aeolycrimic
+Stogian
+Mocrian
+Mycryllic
+Galimic
+Dathian
+Aeranian
+Malyllic
+Zarian
+Ionoyllic
+Mathyllic
+Gonygic
+MACian
+Sonian
+Pyrian
+Katolyllic
+Soptian
+Epocryllic
+Raga Mukhari
+Diatonic Dorian Mixed
+Zorian
+Aerynyllic
+Spanish Octamode 6th Rotation
+Ionocrygic
+Dagyllic
+Diminishing Nonamode 6th Rotation
+Houseini
+Soryllian
+MEWian
+MEXian
+Dydian
+Phryptyllic
+Katoptian
+Sideways Scale
+Raga Cintamani
+Zacrygic
+Gydian
+Lolyllic
+Gygyllic
+Stonygic
+Stacryllic
+Raphygic
+Mocrygic
+Messiaen Mode 7 Rotation 4
+MEQian
+Palyllic
+Katycryllic
+Zodygic
+Mixolydyllic
+Boptygic
+Kiourdi
+Gadyllian
+Stolyllic
+Aerythygic
+Sythygic
+Danyllian
+Aeolacrygic
+Lythyllian
+Katogyllian
+Chromatic Undecamode
+Major Seventh Ditone
+Tritonic Chromatic 2
+POWian
+Tetratonic Chromatic 2
+MOPian
+MOQian
+MORian
+Pentatonic Chromatic 2
+MOTian
+MOVian
+MOWian
+MOXian
+MOYian
+MOZian
+MOBian
+Hexatonic Chromatic 4
+MODian
+MOFian
+MOGian
+MUHian
+MUJian
+MUKian
+MULian
+MUMian
+MUNian
+Raga Megharanji
+MUQian
+MURian
+RIGian
+MUTian
+MUVian
+Heptatonic Chromatic 2
+MUXian
+MUYian
+Raga Sumukam
+MUBian
+NABian
+NACian
+NADian
+NAFian
+Raga Nigamagamini
+NAHian
+Raga Kumurdaki
+NAKian
+NALian
+NAMian
+NANian
+NAPian
+Messiaen Mode 5 Truncation 2
+NARian
+NASian
+NATian
+NAVian
+NEWian
+NEXian
+NEYian
+NEZian
+NEBian
+NECian
+NEDian
+NEFian
+NEGian
+NEHian
+Octatonic Chromatic 2
+Major Seventh Omit 3
+NELian
+NEMian
+NENian
+Dygic
+Ionothitonic
+Zagitonic
+Thydimic
+Major Seventh
+Zalitonic
+Raga Hamsadhvani
+Dyptimic
+Ionagitonic
+Dorimic
+Ionocrimic
+Mygian
+NIDian
+Raga Gauri
+Raga Desh
+Ranimic
+Kagitonic
+Phrydimic
+Raga Sindhura Kafi
+Konian
+Ionian Pentatonic
+Raga Gaula
+Raga Nalinakanti
+Macrian
+Donimic
+Bathian
+Epothian
+Dacryllic
+NOXian
+NOYian
+Raga Vaijayanti
+Raga Vijayasri
+Raga Multani
+Zodimic
+Raga Amarasenapriya
+Dylian
+Lydian Pentatonic
+Raga Mandari
+Raga Caturangini
+Lycrian
+Raga Rasamanjari
+Padian
+Pygian
+Poptyllic
+NURian
+Messiaen Mode 5
+Kagimic
+Dyrian
+Rathimic
+Aeolyptian
+Aerogian
+Lodyllic
+Mocrimic
+Zydian
+Gorian
+Kogyllic
+Thylian
+Phraptyllic
+Bydyllic
+Nonatonic Chromatic 2
+OLLian
+OCOian
+OCUian
+Raga Kumarapriya
+OSRian
+ORKian
+ODOian
+ODUian
+Zyphic
+Doptitonic
+Pynitonic
+Epalimic
+Styditonic
+Dylimic
+Stynimic
+Epydian
+OGOian
+Raga Kshanika
+Raga Priyadharshini
+Tharimic
+Gothitonic
+Raga Viyogavarali
+Raga Ghantana
+Gynian
+Raga Girija
+Raga Lalita
+Raga Sarasanana
+Gadian
+Docrimic
+Kataptian
+Sythian
+Laryllic
+OFFian
+OMOian
+Dyptitonic
+Aeolaptimic
+Bart�k Gamma Chord
+Raga Gurjari Todi
+Takemitsu Linea Mode 1
+Katorian
+Karen 5tone Type 2
+Paptimic
+Eskimo Hexatonic 2
+Molian
+Zathimic
+Zoptian
+Stagian
+Zanyllic
+OROian
+Lycrimic
+T4 First Rotation
+Zylian
+Zacrimic
+Aeolorian
+Harmonic Minor Flat 5
+Lothyllic
+Kanimic
+Raga Lalita
+Malian
+Thorcryllic
+Rorian
+Katoryllic
+Kadyllic
+Gythygic
+PACian
+Raga Deshgaur
+PAFian
+PAGian
+Kyritonic
+Panimic
+Zadimic
+Thagian
+Zacritonic
+Raga Bauli
+Raga Latika
+Bothian
+Augmented
+Ionocrian
+Sagian
+Ionathyllic
+Raga Devaranjani
+Raga Padi
+Raga Bhinna Pancama
+Mela Ganamurti
+Raga Takka
+Neapolitan Minor
+Harmonic Minor
+Harmonic and Neapolitan Minor Mixed
+Raga Paraju
+Double Harmonic
+Harmonic Major
+Phroptyllic
+Mela Gangeyabhusani
+Layllic
+Manyllic
+Aeolocrygic
+PEQian
+PIRian
+Ralimic
+Mela Jhalavarali
+Mydimic
+Todi That
+Double Harmonic Minor
+Epyryllic
+Aerycrimic
+Chromatic Hypolydian
+Harmonic Lydian
+Dathyllic
+Mela Dhatuvardhani
+Mirage Scale
+Aeolaryllic
+Phradygic
+PIKian
+Danian
+Podian
+Messiaen Mode 4
+Laptian
+Half-Diminished Bebop
+Algerian
+Dydygic
+Thycrian
+Raga Ramkali
+Rydyllic
+Zoptygic
+Aeolaptyllic
+Bythygic
+Dothygic
+Decatonic Chromatic 2
+PODian
+POFian
+POGian
+PUHian
+PUJian
+PUKian
+PULian
+PUMian
+PUNian
+PUPian
+Raga Neroshta
+PURian
+OTLian
+PUTian
+PUVian
+PUWian
+PUXian
+Rolitonic
+Raga Rasranjani
+Malimic
+Marga Hindolam
+Gadimic
+Rylimic
+Aerolian
+Raga Bhinna Shadja
+Raga Vasanta
+Raga Hamsa Vinodini
+Thoptian
+Pylimic
+Ionyrian
+Ionogian
+Aerylyllic
+ODWian
+QERian
+Raga Shubravarni
+Macrimic
+Bart�k Beta Chord
+Gocrimic
+Raga Ranjani
+Dothian
+Raga Hindol
+Raga Hamsanandi
+Raga Mruganandana
+Dadian
+Aeolythimic
+Panian
+Sygian
+Thocryllic
+QOKian
+Katynimic
+Stydimic
+Lalian
+Messiaen Mode 2 Truncation 1
+Byrian
+Jeths' Mode
+Lylyllic
+Mythimic
+Chromatic Lydian
+Thodian
+Rathyllic
+Aerycrian
+Thodyllic
+Ionoryllic
+Thacrygic
+Lahuzu 5tone Type 2
+RAHian
+Lahuzu 5 Tone Type 3
+RAKian
+Katagitonic
+Sythimic
+Hawaiian
+Galian
+Raga Mamata
+Banimic
+Raga Kumud
+Stolian
+Porimic
+Kynian
+Epygian
+Zocryllic
+Raga Puruhutika
+Raga Jivantika
+Raga Nagagandhari
+Mela Manavati
+Aeragimic
+Neapolitan Major
+Melodic Minor Ascending
+Gynyllic
+Raga Hari Nata
+Mela Suryakanta
+Major
+Staptyllic
+Mela Sulini
+Stythyllic
+Spanish Octamode 1st Rotation
+Sylygic
+RITian
+RIVian
+Raga Nishadi
+Mela Pavani
+Dagimic
+Mela Suvarnangi
+Lydian Flat 3
+Katydyllic
+Dyrimic
+Marva That
+Lydian
+Quartal Octamode 10th Rotation
+Aeolian Harmonic
+Shostakovich
+Gycryllic
+Gothygic
+RONian
+Zyrian
+Zolian
+Ionyptyllic
+Eporian
+Van der Horst Octatonic
+Stalyllic
+Epilygic
+Zogian
+Raga Bhatiyar
+Ichikotsuch�
+Zylygic
+Gythyllic
+Barygic
+Zolygic
+Aeradyllian
+RUHian
+RUJian
+RUKian
+RULian
+RUMian
+RUNian
+RUPian
+RUQian
+Dolitonic
+Ionygimic
+Aelothimic
+Lyptian
+African Pentatonic 3
+Sorian
+Baptian
+Phracryllic
+RUBian
+Katoptimic
+Baptimic
+Epocrian
+Stythimic
+Phrycrian
+Hungarian Major 5th Mode
+Aerogyllic
+Solimic
+Major Romani
+Major Augmented
+Stanyllic
+Ionian Augmented Sharp 2
+Ganyllic
+Phrylyllic
+Stadygic
+SATian
+SAVian
+Byrimic
+Gaptian
+Thoptimic
+Phrogian
+Lylian
+Aeragyllic
+Rycrimic
+Kagian
+Lydian Augmented
+Spanish Octamode 10th Rotation
+Lydian Augmented Sharp 2
+Magen Abot 2
+Mocryllic
+Katygic
+SENian
+Aeolydian
+Nohkan Flute Scale
+Molyllic
+Pogian
+Baryllic
+Diminished
+Rodygic
+Aeolathian
+Zathyllic
+Dalyllic
+Modygic
+Aeolathyllic
+Diminishing Nonamode 2nd Rotation
+Laptygic
+Dathyllian
+SIHian
+SIJian
+SIKian
+SILian
+Ionylimic
+Thorian
+Thygian
+Dygyllic
+Bygimic
+Bygian
+Darian
+Madyllic
+Tholian
+Aeolynyllic
+Panyllic
+Gaptygic
+SOBian
+Gyptian
+Ionolian
+Zythyllic
+Epacrian
+Neapolitan Major and Minor Mixed
+Bebop Minor
+Zanygic
+Stythian
+Raga Saurashtra
+Major Bebop
+Diminishing Nonamode
+Lonyllic
+Messiaen Mode 3 Rotation 2
+Gycrygic
+Zyryllian
+SUVian
+SUWian
+Thynian
+Laptyllic
+Gacrian
+Mydyllic
+Gyptyllic
+Aeracrygic
+Epycrian
+Rythyllic
+Ionocryllic
+Epithygic
+Doptyllic
+Gocrygic
+Nine Tone Scale
+Godyllian
+TANian
+Ionayllic
+Raptyllic
+Panygic
+Aeronyllic
+Stalygic
+Zycrygic
+Messiaen Mode 7
+Phroryllic
+Madygic
+Apinygic
+Solyllian
+Zothygic
+Goptyllian
+Bacryllian
+Chromatic Undecamode 2
+Tritonic Chromatic Descending
+Tetratonic Chromatic 3
+TEKian
+Pentatonic Chromatic 3
+TEMian
+REHian
+TEPian
+Hexatonic Chromatic 3
+TIRian
+TISian
+BUQian
+TIVian
+TIWian
+TIXian
+TIYian
+Heptatonic Chromatic 3
+TIBian
+TICian
+TIDian
+TIFian
+TIGian
+TIHian
+TIJian
+TIKian
+TILian
+TOMian
+TONian
+TOPian
+TOQian
+TORian
+TOSian
+Octatonic Chromatic 3
+TOVian
+TOWian
+Kanitonic
+Polimic
+Stolitonic
+Ryrimic
+Phrycrimic
+Pacrian
+Zathitonic
+Ladimic
+Zyptimic
+Stocrian
+Kodimic
+Rogian
+Mylian
+Thynyllic
+TUPian
+Zythimic
+Zarimic
+Eponian
+Rothimic
+Daptian
+Rolian
+Mixonyllic
+Messiaen Mode 5 Rotation 1
+Koptian
+Aeolonian
+Bynyllic
+Zathian
+Raryllic
+Gylyllic
+Nonatonic Chromatic 3
+URTian
+ETRian
+UTWian
+UCOian
+Aeraphitonic
+Epacrimic
+Eponimic
+Katydian
+Molitonic
+Ionaphimic
+Bycrimic
+Thyphian
+Ionalimic
+Aeolocrian
+Aeolaptian
+Kataptyllic
+UNBian
+Pothimic
+Raga Brindabani Sarang
+Mela Tanarupi
+Dalimic
+Mela Rupavati
+Mela Varunapriya
+Aeolonyllic
+Raga Tilang
+Mela Hatakambari
+Mela Naganandini
+Daryllic
+Mela Calanata
+Loptyllic
+Dodyllic
+Pyrygic
+URRian
+URFian
+Raga Malarani
+Mela Raghupriya
+Raga Jivantini
+Mela Divyamani
+Mela Nitimati
+Pythyllic
+Raga Vijayavasanta
+Mela Visvambhari
+Lydian #6
+Phrathyllic
+Lydian Sharp 2 Sharp 6
+Kodyllic
+Saryllic
+Phroptygic
+ULLian
+Syptian
+Chromatic Mixolydian Inverse
+Soptyllic
+Chromatic Hypophrygian
+Boptyllic
+Bycryllic
+Mixodygic
+Aeolacrian
+Tcherepnin Octatonic Mode 1
+Lanyllic
+Tholygic
+Ionycryllic
+Phrygygic
+Epygic
+Decatonic Chromatic 3
+UYOian
+VABian
+VACian
+VADian
+VAFian
+SMUian
+VAHian
+VAJian
+Zylitonic
+Synimic
+Aeolocrimic
+Crater Scale
+Phraptimic
+Bagian
+Phrodian
+Bonyllic
+VATian
+Rogimic
+Katolimic
+Moptian
+Mixolimic
+Aeolylian
+Lodian
+Kygyllic
+Phralimic
+Verdi's Scala Enigmatica Descending
+Katanian
+Daptyllic
+Chromatic Phrygian
+Aeryptyllic
+Socryllic
+Aeolynygic
+VENian
+VEPian
+Sydimic
+Zonian
+Palimic
+Bylian
+Stynian
+Katocryllic
+Katanimic
+Enigmatic
+Leading Whole-tone
+Ionaptyllic
+Golian
+Magen Abot 1
+Aerothyllic
+Lothygic
+VIHian
+Zacrian
+Marian
+Zyptyllic
+Thonian
+Prokofiev
+Gathyllic
+Lythygic
+Thacrian
+Verdi's Scala Enigmatica
+Messiaen Mode 6
+Kynygic
+Bacryllic
+Garygic
+Katarygic
+Ryptyllian
+VOBian
+VOCian
+VODian
+VOFian
+Katathimic
+Sudhvidhamagini
+Monian
+Gyryllic
+Lathimic
+Kylian
+Kyptian
+Rothyllic
+Katathian
+Mugham Sh�sht�r
+Sabach
+Byptygic
+VUVian
+Tharian
+Rathian
+Banyllic
+Phrolian
+Hamel
+Gregorian Nr.4
+Zyphygic
+Stygian
+Ponyllic
+Stogyllic
+Epolygic
+Dydyllic
+Moorish Phrygian
+Diminishing Nonamode 1st Rotation
+Raga Sindhi-Bhairavi
+WANian
+WAPian
+Zocrian
+Ronyllic
+Stalian
+Neveseri
+Thadyllic
+Aeroptygic
+Katogian
+Aeoryllic
+Racryllic
+Aeolonygic
+Thyptyllic
+Diminishing Nonamode 9th Rotation
+Messiaen Mode 3
+Sagyllian
+WEHian
+Pylyllic
+Thycryllic
+Aerathygic
+Pothyllic
+Ionoptygic
+Aeolorygic
+Epityllian
+Aeoladyllic
+Dyrygic
+Kaptygic
+Messiaen Mode 7 Rotation 1
+Loptygic
+Zyphyllian
+Epocryllian
+Chromatic Undecamode 3
+Tetratonic Chromatic Descending
+Pentatonic Chromatic 4
+WIDian
+WIFian
+WIGian
+WIHian
+WIJian
+Heptatonic Chromatic 4
+WILian
+WOMian
+OLKian
+WOPian
+WOQian
+WORian
+WOSian
+Octatonic Chromatic 4
+WOVian
+Thanimic
+Gylimic
+Aerocrian
+Podimic
+Kalian
+Boptian
+Gydyllic
+Daptimic
+Katygian
+Raga Rageshri
+Paptyllic
+Thocrian
+Kydyllic
+Zycryllic
+Nonatonic Chromatic 4
+WUPian
+WUQian
+Sathimic
+Mathian
+Epynimic
+Polian
+Mixodorian
+Sonyllic
+Stalimic
+Kaptian
+Mothian
+Aeonyllic
+Ranian
+Monyllic
+Katylyllic
+Rycrygic
+XAHian
+Dycrian
+Kodian
+Zonyllic
+Katocrian
+Badyllic
+Epaptyllic
+Kodygic
+Ionarian
+Aeolylyllic
+Bagyllic
+Katalygic
+Messiaen Mode 4 Rotation 2
+Rynygic
+Locrygic
+Decatonic Chromatic 4
+XIBian
+XICian
+XIDian
+XOFian
+Phragimic
+Myptian
+Kyrian
+Tholyllic
+Starimic
+Aeryrian
+Gycrian
+Ionagyllic
+Phrocrian
+Ioninyllic
+Zydyllic
+Thadygic
+XUVian
+Myrian
+Raga Sorati
+Aerathyllic
+Phraptian
+Phryryllic
+Raga Mian Ki Malhar
+Darygic
+Raga Madhuri
+Modyllic
+Dominant Bebop
+Chromatic Bebop
+Aeracryllic
+Stophygic
+Raga Malgunji
+Loptyllian
+YARian
+YASian
+Gyphian
+Phrygyllic
+Epagian
+Kagyllic
+Eporyllic
+Stodygic
+Aeopian
+Epothyllic
+Spanish Octamode 8th Rotation
+Aeralygic
+Maptyllic
+Epidygic
+Moptygic
+Bagyllian
+YELian
+Epogyllic
+Aeologyllic
+Mylygic
+Zoryllic
+Aeolanygic
+Diminishing Nonamode 8th Rotation
+Epinyllian
+Pynyllic
+Dorygic
+Taishikicho
+Ionyllian
+Dycrygic
+Messiaen Mode 7 Rotation 2
+Minor Pentatonic With Leading Tones
+Chromatic Undecamode 4
+Pentatonic Chromatic Descending
+Hexatonic Chromatic 5
+YIHian
+Heptatonic Chromatic 5
+YIKian
+YILian
+YOMian
+Octatonic Chromatic 5
+Ponimic
+Aeolarian
+Phroptian
+Eparyllic
+Starian
+Storyllic
+Bygyllic
+Nonatonic Chromatic 5
+YOYian
+Aeryptian
+Thanian
+Pathyllic
+Morian
+Kyryllic
+Styryllic
+Phrathygic
+Parian
+Ryryllic
+Phrocryllic
+Eparygic
+Locryllic
+Katorygic
+Bycrygic
+Decatonic Chromatic 5
+YUSian
+YUTian
+Rydian
+Katyryllic
+Bonian
+Gogyllic
+Epaphyllic
+Lynygic
+Pythian
+Stoptyllic
+Thyryllic
+Monygic
+Aeolothyllic
+Aerygic
+Ionidygic
+Kataphyllian
+ZALian
+Dogyllic
+Stathyllic
+Zynygic
+Lydyllic
+Ryptygic
+Koptygic
+Mathyllian
+Thagyllic
+Galygic
+Porygic
+Katagyllian
+Mixolydygic
+Aeoryllian
+Messiaen Mode 7 Rotation 3
+Chromatic Undecamode 5
+Hexatonic Chromatic Descending
+Heptatonic Chromatic 6
+ZEHian
+Octatonic Chromatic 6
+Kythian
+Dynyllic
+Phrycryllic
+Nonatonic Chromatic 6
+Thadian
+Loryllic
+Sythyllic
+Badygic
+Ioniptyllic
+Ionygic
+Dogygic
+Decatonic Chromatic 6
+ZIYian
+Sadyllic
+Phradyllic
+Doptygic
+Phranyllic
+Styrygic
+Raga Pilu
+Phradyllian
+Dolyllic
+Lonygic
+Raga Pahadi
+Styptyllian
+Kalygic
+Ragyllian
+Major/Minor Mixed
+Chromatic Undecamode 6
+Heptatonic Chromatic Descending
+Octatonic Chromatic 7
+Ionyllic
+Nonatonic Chromatic 7
+Zaryllic
+Phrocrygic
+Gyptygic
+Decatonic Chromatic 7
+Stycryllic
+Ionilygic
+Kyrygic
+Dagyllian
+Phrygic
+Zolyllian
+Staptyllian
+Chromatic Undecamode 7
+Octatonic Chromatic Descending
+Nonatonic Chromatic 8
+Starygic
+Decatonic Chromatic 8
+Sathygic
+Katyllian
+Gothyllian
+Chromatic Undecamode 8
+Nonatonic Chromatic Descending
+Decatonic Chromatic 9
+Sydyllian
+Chromatic Undecamode 9
+Decatonic Chromatic Descending
+Chromatic Undecamode 10
+Chromatic Undecamode 11
+Chromatic
