@@ -317,12 +317,16 @@ if is_ready:
 # Playback
 
 def play():
-    with open("melody.mid", "wb") as f:
-        mf.writeFile(f)
-    pygame.mixer.init()
-    pygame.mixer.music.load("melody.mid")
-    pygame.mixer.music.play()
-    os.remove("melody.mid")
+    try:
+        with open("melody.mid", "wb") as f:
+            mf.writeFile(f)
+    except:
+        st.toast("Failed to write output to MIDI.", icon='😢')
+    else:
+        pygame.mixer.init()
+        pygame.mixer.music.load("melody.mid")
+        pygame.mixer.music.play()
+        os.remove("melody.mid")
 
 def stop():
     pygame.mixer.music.stop()
