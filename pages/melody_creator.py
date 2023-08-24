@@ -176,7 +176,7 @@ with columns[1]:
 
 st.number_input("Tempo", 12, None, key="p_tempo")
 
-st.number_input("Length", 0, None, step=1, key="p_length")
+st.number_input("Length", 0, None, step=1, key="p_length", help="This value is in beats.")
 
 st.text_input("Scale", key="p_scale")
 if st.session_state["p_scale"] == "":
@@ -240,32 +240,32 @@ st.header("Generation")
 
 is_ready = True
 
-st.text_input("Initial X", key="p_initial_x")
+st.text_input("Initial X", key="p_initial_x", help="The x-value from which the first note will be derived.")
 if st.session_state["p_initial_x"] == "":
     st.info("**Initial X** is unspecified.")
     is_ready = False
 
-st.text_input("New X", key="p_new_x")
+st.text_input("New X", key="p_new_x", help="Expression for finding the next x-value to derive a note from.")
 if st.session_state["p_new_x"] == "":
     st.info("**New X** is unspecified.")
     is_ready = False
 
-st.text_input("Pitch", key="p_pitch")
+st.text_input("Pitch", key="p_pitch", help="Gets converted from scale degree to pitch in the specifed scale.")
 if st.session_state["p_pitch"] == "":
     st.info("**Pitch** is unspecified.")
     is_ready = False
 
-st.text_input("Duration", key="p_duration")
+st.text_input("Duration", key="p_duration", help="1.0 = quarter note")
 if st.session_state["p_duration"] == "":
     st.info("**Duration** is unspecified.")
     is_ready = False
 
-st.text_input("Rest", key="p_rest")
+st.text_input("Rest", key="p_rest", help="Boolean statement that, if true, will make the note a rest/pause.")
 if st.session_state["p_rest"] == "":
     st.info("**Rest** is unspecified.")
     is_ready = False
 
-st.text_input("Velocity", key="p_velocity")
+st.text_input("Velocity", key="p_velocity", help="Value from **0-127** determining the loudness of the note.")
 if st.session_state["p_velocity"] == "":
     st.info("**Velocity** is unspecified.")
     is_ready = False
