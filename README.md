@@ -1,6 +1,8 @@
 # MusicTools
 MusicTools is a small application for generating music, consisting of currently two tools: Scale Explorer and Melody Creator.
 
+[Watch a Demo on YouTube](https://youtu.be/1Dc_SweKg_4?si=6ZD9qHLIG-dZqEDg)
+
 ## Scale Explorer
 
 Scale Explorer uses a binary system for defining scales, inspired by [A study of musical scales by Ian Ring](https://ianring.com/musictheory/scales/).
